@@ -1,0 +1,27 @@
+.us {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px ridge rgb(12, 39, 3);
+    padding: 5px;
+
+
+    border: 1px solid #ddd;	/* thickness and color of border */
+    border-radius: 4px;		/* edge rounding of border */
+    width: 200px;				/* width of image (px or % or auto) */
+    height: auto;				/* height of image (px or % or auto) */
+}
+.place1{
+    height: 150px;  
+    width: 400px;  
+    border: 10px solid rgb(107, 176, 208);  
+    padding: 20px; 
+}
+body{
+    background-color:rgb(205, 231, 242)
+    
+    }
+    p {
+    font-size: medium;
+    text-align: center;
+    }
