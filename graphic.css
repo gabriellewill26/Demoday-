@@ -1,8 +1,13 @@
 body{
-    background-color:peachpuff
-    
+    background-color:peachpuff;
+    margin-left: 15%;
     }
     p {
     font-size: medium;
     text-align: center;
+    
     }
+
+h1 {
+    font-size: 56px;
+   }
